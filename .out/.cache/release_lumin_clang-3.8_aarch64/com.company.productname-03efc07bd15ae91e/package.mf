@@ -1,0 +1,275 @@
+{
+ "entries": [
+  {
+   "compression": 8,
+   "hash": "98fb78e9a31a670d1c1218b5f36a21a5a64bf982",
+   "pkgpath": "Data/095890d8c9bde1a45b549a17e6e6f961",
+   "size": 5036,
+   "src": "C:/Users/psas598/Desktop/ISMAR/Temp/StagingArea/Data/095890d8c9bde1a45b549a17e6e6f961"
+  },
+  {
+   "compression": 8,
+   "hash": "0a037652dc5e5ce47abcf176d80d036749732128",
+   "pkgpath": "Data/Managed/Metadata/global-metadata.dat",
+   "size": 3035220,
+   "src": "C:/Users/psas598/Desktop/ISMAR/Temp/StagingArea/Data/Managed/Metadata/global-metadata.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "c0fbd13daad2e0227d9a58dab4f0d26355cf7a3d",
+   "pkgpath": "bin/libil2cpp.so",
+   "size": 37592768,
+   "src": "C:/Users/psas598/Desktop/ISMAR/Temp/StagingArea/Data/Native/libil2cpp.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\psas598\\Downloads\\ismar\\ismar.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "43d49eb78c21d654e60926ece196e1f062852f4e",
+   "xfrm_path": "C:/Users/psas598/Desktop/ISMAR/.out/.cache/release_lumin_clang-3.8_aarch64/com.company.productname-03efc07bd15ae91e\\libil2cpp.so-e349cb1c4bc33907",
+   "xfrm_size": 37593526
+  },
+  {
+   "compression": 8,
+   "hash": "dc64ed4bee950e5ce1ab12268f627a3db179e4af",
+   "pkgpath": "bin/AudioPluginMSASpatializer.so",
+   "size": 220456,
+   "src": "C:/Users/psas598/Desktop/ISMAR/Temp/StagingArea/Data/Plugins/AudioPluginMSASpatializer.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\psas598\\Downloads\\ismar\\ismar.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "4156eaf24f952af5183f770706058b33a7e624be",
+   "xfrm_path": "C:/Users/psas598/Desktop/ISMAR/.out/.cache/release_lumin_clang-3.8_aarch64/com.company.productname-03efc07bd15ae91e\\AudioPluginMSASpatializer.so-02cc36f0b3bd6110",
+   "xfrm_size": 221214
+  },
+  {
+   "compression": 8,
+   "hash": "aed32544e1ea67c511396569fcb89b586b15d839",
+   "pkgpath": "bin/UnityEngine.SpatialTracking.dll",
+   "size": 9216,
+   "src": "C:/Users/psas598/Desktop/ISMAR/Temp/StagingArea/Data/Plugins/UnityEngine.SpatialTracking.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "715f293d231a26472ba1672c3e59f76cb0e5e364",
+   "pkgpath": "bin/UnityEngine.TestRunner.dll",
+   "size": 65536,
+   "src": "C:/Users/psas598/Desktop/ISMAR/Temp/StagingArea/Data/Plugins/UnityEngine.TestRunner.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "d93ff7b64d92abd6dbb8419c3348ab5f56ad5ec5",
+   "pkgpath": "bin/UnityMagicLeap.so",
+   "size": 728232,
+   "src": "C:/Users/psas598/Desktop/ISMAR/Temp/StagingArea/Data/Plugins/UnityMagicLeap.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\psas598\\Downloads\\ismar\\ismar.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "2580466d9f9783fcb4c7551ee69e543ca58731e2",
+   "xfrm_path": "C:/Users/psas598/Desktop/ISMAR/.out/.cache/release_lumin_clang-3.8_aarch64/com.company.productname-03efc07bd15ae91e\\UnityMagicLeap.so-02cc36f0b3bd6110",
+   "xfrm_size": 728990
+  },
+  {
+   "compression": 8,
+   "hash": "a765bb75be250a6992c1a46fc23a55501e369b85",
+   "pkgpath": "bin/libml_camera_plugin.so",
+   "size": 14184,
+   "src": "C:/Users/psas598/Desktop/ISMAR/Temp/StagingArea/Data/Plugins/libml_camera_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\psas598\\Downloads\\ismar\\ismar.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "08bb4b32ea41c102ff6d4d9dc8412588e9dd9086",
+   "xfrm_path": "C:/Users/psas598/Desktop/ISMAR/.out/.cache/release_lumin_clang-3.8_aarch64/com.company.productname-03efc07bd15ae91e\\libml_camera_plugin.so-02cc36f0b3bd6110",
+   "xfrm_size": 14942
+  },
+  {
+   "compression": 8,
+   "hash": "633780c922a0dbfe032638afff9a25e3fc49219f",
+   "pkgpath": "bin/libml_mediaplayer_plugin.so",
+   "size": 38792,
+   "src": "C:/Users/psas598/Desktop/ISMAR/Temp/StagingArea/Data/Plugins/libml_mediaplayer_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\psas598\\Downloads\\ismar\\ismar.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "446e5ab98bbbc245fa293dde55d46edb7221509d",
+   "xfrm_path": "C:/Users/psas598/Desktop/ISMAR/.out/.cache/release_lumin_clang-3.8_aarch64/com.company.productname-03efc07bd15ae91e\\libml_mediaplayer_plugin.so-02cc36f0b3bd6110",
+   "xfrm_size": 39550
+  },
+  {
+   "compression": 8,
+   "hash": "5629c7ff5fb59ddc72778d4b9d3dbadcde480998",
+   "pkgpath": "bin/nunit.framework.dll",
+   "size": 328192,
+   "src": "C:/Users/psas598/Desktop/ISMAR/Temp/StagingArea/Data/Plugins/nunit.framework.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "e6124da6073b916e29e013cf3ae3f58a4c5fdb0e",
+   "pkgpath": "Data/Resources/mscorlib.dll-resources.dat",
+   "size": 337563,
+   "src": "C:/Users/psas598/Desktop/ISMAR/Temp/StagingArea/Data/Resources/mscorlib.dll-resources.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "dc1423ee40a78f4701880b37e1f07bc4f3500e9d",
+   "pkgpath": "Data/Resources/unity default resources",
+   "size": 3308004,
+   "src": "C:/Users/psas598/Desktop/ISMAR/Temp/StagingArea/Data/Resources/unity default resources"
+  },
+  {
+   "compression": 8,
+   "hash": "c0d06b372dca191476c9fbca38494c86cc394e13",
+   "pkgpath": "Data/Resources/unity_builtin_extra",
+   "size": 392748,
+   "src": "C:/Users/psas598/Desktop/ISMAR/Temp/StagingArea/Data/Resources/unity_builtin_extra"
+  },
+  {
+   "compression": 8,
+   "hash": "9bbb5e3aae616602db933abd34140e11132fccea",
+   "pkgpath": "Data/UnitySubsystems/Runtime/UnitySubsystemsManifest.json",
+   "size": 438,
+   "src": "C:/Users/psas598/Desktop/ISMAR/Temp/StagingArea/Data/UnitySubsystems/Runtime/UnitySubsystemsManifest.json"
+  },
+  {
+   "compression": 8,
+   "hash": "b088e6387dff2186fa558355a759723407bcbc0a",
+   "pkgpath": "Data/boot.config",
+   "size": 55,
+   "src": "C:/Users/psas598/Desktop/ISMAR/Temp/StagingArea/Data/boot.config"
+  },
+  {
+   "compression": 8,
+   "hash": "f8d8871588916ea07fe43c2a9dac070c3e7c3ba9",
+   "pkgpath": "Data/globalgamemanagers",
+   "size": 34928,
+   "src": "C:/Users/psas598/Desktop/ISMAR/Temp/StagingArea/Data/globalgamemanagers"
+  },
+  {
+   "compression": 8,
+   "hash": "5960294279e6cfccf865c25eceae292186f7d224",
+   "pkgpath": "Data/globalgamemanagers.assets",
+   "size": 36168,
+   "src": "C:/Users/psas598/Desktop/ISMAR/Temp/StagingArea/Data/globalgamemanagers.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "fc6dd2b74adc989efe700c5376a584c4b87f48db",
+   "pkgpath": "Data/level0",
+   "size": 26388,
+   "src": "C:/Users/psas598/Desktop/ISMAR/Temp/StagingArea/Data/level0"
+  },
+  {
+   "compression": 8,
+   "hash": "708bf8e3059603c1dd2f12c582dd7a374fdd4960",
+   "pkgpath": "Data/level0.resS",
+   "size": 131232,
+   "src": "C:/Users/psas598/Desktop/ISMAR/Temp/StagingArea/Data/level0.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "6126a67e611329937bd8db614d5df16ef26f44a9",
+   "pkgpath": "Data/sharedassets0.assets",
+   "size": 6254668,
+   "src": "C:/Users/psas598/Desktop/ISMAR/Temp/StagingArea/Data/sharedassets0.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "65a49da18555136b9b8126cbab7c60b006abe468",
+   "pkgpath": "Data/sharedassets0.assets.resS",
+   "size": 17938688,
+   "src": "C:/Users/psas598/Desktop/ISMAR/Temp/StagingArea/Data/sharedassets0.assets.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "8f59c553fa65e4c62b244f94275fdf50ef6a40e8",
+   "pkgpath": "bin/Player.elf",
+   "size": 22318968,
+   "src": "C:/Users/psas598/Desktop/ISMAR/Temp/StagingArea/Player.elf",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\psas598\\Downloads\\ismar\\ismar.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "e60f8c953b19fbae0835b17bf4bcf2bc68ebd510",
+   "xfrm_path": "C:/Users/psas598/Desktop/ISMAR/.out/.cache/release_lumin_clang-3.8_aarch64/com.company.productname-03efc07bd15ae91e\\Player.elf-aa13429aaea8c076",
+   "xfrm_size": 22319726
+  },
+  {
+   "compression": 8,
+   "hash": "5925de9f4d7b83c65d1fd7b25ced5f0bf8c27e73",
+   "pkgpath": "bin/libc++_shared.so",
+   "size": 976832,
+   "src": "C:/Users/psas598/MagicLeap/mlsdk/v0.19.0/lumin/stl/libc++/lib/libc++_shared.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\psas598\\Downloads\\ismar\\ismar.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "053c82d145a2090b57459fa27eb7d349e408c64b",
+   "xfrm_path": "C:/Users/psas598/Desktop/ISMAR/.out/.cache/release_lumin_clang-3.8_aarch64/com.company.productname-03efc07bd15ae91e\\libc++_shared.so-d0b1579b23cea273",
+   "xfrm_size": 977590
+  },
+  {
+   "compression": 8,
+   "hash": "1cd88cc9af3fdac99a93e48b3297e630b4b0feb8",
+   "pkgpath": "manifest.xml",
+   "size": 724,
+   "src": "C:\\Users\\psas598\\Desktop\\ISMAR\\Temp\\StagingArea\\manifest.xml",
+   "xfrm_flags": {
+    "manifest": {
+     "cert_hash": "fa1a330d6e538f78c4c9d37270d2749fe641d9e4",
+     "developer_id": "c27ed55a-3c57-4508-8d98-5e1e767d33cb"
+    }
+   },
+   "xfrm_hash": "d4d15c0553a20a1d6957fad415bbc670002bd327",
+   "xfrm_path": "C:/Users/psas598/Desktop/ISMAR/.out/.cache/release_lumin_clang-3.8_aarch64/com.company.productname-03efc07bd15ae91e\\manifest.xml-aa13429aaea8c076",
+   "xfrm_size": 736
+  }
+ ],
+ "pkgflags": {
+  "signed": {
+   "cert": "C:\\Users\\psas598\\Downloads\\ismar\\ismar.cert"
+  },
+  "taildata": {
+   "devcert": "C:\\Users\\psas598\\Downloads\\ismar\\ismar.cert",
+   "sbox": "USER",
+   "version": 3
+  }
+ }
+}
